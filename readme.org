@@ -1,0 +1,17 @@
+#+TITLE: Coup d'Etat - A Monkey Primer
+
+The goal of this project is to gather info on coups in a holistic manner, drawing from both historical examples and political writings. 
+
+While Africa has been the historical reference for /coups/, this project will mainly focus on Central Asia and the Middle East, as the nature of /coups/ has been transformed by recent technological changes. The Middle East /vis-a-vis/ the Arab spring, and the central Asian revolutions in the early 00's present more recent examples of /coups/.
+
+* Books 
+  - Coup d'État by Edward N. Luttwak
+  - Seizing Power: The Strategic Logic of Military Coups by Naunihal Singh
+  - Twitter and Tear Gas: The Power and Fragility of Networked Protest by Zeynep Tufekci 
+  - Dictators Without Borders: Power and Money in Central Asia by Alexander A. Cooley, John Heathershaw
+  - Great Games, Local Rules: The New Great Power Contest in Central Asia by Alexander Cooley 
+  - Aftershocks: Great Powers and Domestic Reforms in the Twentieth Century by Seva Gunitsky 
+* Topics
+  - Central Asia
+  - Middle East
+  - Great power influences
